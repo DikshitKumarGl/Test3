@@ -17,7 +17,7 @@ You need to read data dynamically from Customer (customerid,customername,custome
 
 Hint: TableName: Customer
 
-  columnnames: customerid,customername,customerphone,customeraddress,customerloginid,customerpassword ..etc
+  columnnames: customerid,customername,customerphone,customeraddress,customerloginid,customerpassword ..etc<br>
   <b> Solution : Test3_SBJPA</b>
 
 
