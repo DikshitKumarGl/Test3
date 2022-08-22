@@ -5,7 +5,7 @@ You need to read data dynamically from Customer (customerid,customername,custome
 
  and then display on webpage.
  
-<b> Solution : Test 3 SpringBoot</b>
+<b> Solution : Test3_SpringBoot</b>
 
 
 
